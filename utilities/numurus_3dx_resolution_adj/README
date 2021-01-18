@@ -1,0 +1,5 @@
+1/18/2021
+
+This folder provides a host-side script and supplementary files to allow changing the ZED configured resolution on 3DX-C/CI (etc.). 
+
+This solution should be considered a temporary work-around pending an upcoming firmware release that will provide this functionality over a standard 3DX ROS interface.
